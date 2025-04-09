@@ -9,7 +9,7 @@
 <body class="bg-gray-100 font-sans">
     <nav class="bg-white shadow mb-4">
         <div class="container mx-auto px-4 py-4">
-            <a href="{{ route('products.index') }}" class="font-bold text-xl text-blue-600">ADVANCED CRUD By chandan</a>
+            <a href="{{ route('products.index') }}" class="font-bold text-xl text-blue-600">ADVANCED CRUD chandan</a>
         </div>
     </nav>
 
